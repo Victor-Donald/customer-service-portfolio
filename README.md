@@ -6,8 +6,9 @@
 ---
 
 ## 👥 About Me
-I am a dedicated and detail-oriented Customer Service Specialist with over two decades of experience delivering premium frontline support, member services, and high-level administrative coordination. Known for an empathetic and active listening approach, I excel at navigating high-volume user interactions, streamlining database workflows, and resolving complex inquiries with absolute accuracy. My focus is always on building positive relationships and optimizing the user experience.
+Dedicated and detail-oriented Customer Service & Administrative Specialist with over two decades of experience delivering premium frontline support, member services, and high-level operational coordination.
 
+Known for an empathetic, active-listening approach, I excel at navigating high-volume user interactions, optimizing database workflows, and resolving complex inquiries with absolute accuracy. My focus is always on driving positive organizational impact and maximizing the user experience."
 ---
 
 ## 🛠️ Core Competencies
@@ -15,25 +16,19 @@ I am a dedicated and detail-oriented Customer Service Specialist with over two d
 ### Frontline Support & Relations
 * Advanced Active Listening & Empathy
 * Customer Care Excellence & Relationship Building
-* Complaint Resolution & Escalation Management
-* High-Volume Phone & Email Support
-
+* Managed a volume of customer interactions while maintaining accuracy in benefits information provided, demonstrating strong attention to detail, professionalism, and commitment to quality service. 
 ### Information & Database Management
 * High-Speed Data Entry & Verification
 * Records Optimization & Archiving
-* CRM & Information Management Systems
+
 * Technical & Operational Documentation
 
-### Operations & Logistics
-* Calendar & Scheduling Coordination
-* Resource Navigation & Member Outreach
-* High-Volume Multitasking & Prioritization
 
 ---
 
 ## ## 📁 Featured Impact Case Studies
-
-I transform 20+ years of frontline support, member services, and administrative experience into measurable organizational success. Discover how I optimize database workflows and resolve complex customer escalations:
+> [!NOTE]
+> **Core Philosophy:** Transforming 20 years of frontline support into streamlined workflows and absolute record accuracy.
 
 👉 **[View My Detailed Impact Projects & Case Studies](projects.md)**
 
