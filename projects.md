@@ -4,29 +4,46 @@
 ---
 
 ### 📋 Case Study 1: High-Volume Support & Consumer Benefits Guidance
-* **Context:** Provided remote customer service support during the high-stakes annual open enrollment period at **Winston Benefits**.
+* **Context:** Provided remote customer service support during the annual open enrollment period at **Winston Benefits**.
 * **The Challenge:** Managing a continuous influx of complex consumer inquiries regarding medical, dental, and vision benefit plans under tight deadlines while maintaining flawless data accuracy and user satisfaction.
 * **Actions Taken:**
-  * Personally guided over **100+ consumers** through multi-tiered digital benefits enrollment pipelines.
-  * Responded to benefits inquiries for **10+ consumers daily**, translating dense structural policy regulations into clear, easily digestible answers.
-  * Maintained 100% precision while documenting data updates and processing sensitive records.
-* **Outcome:** Drastically improved consumer plan comprehension, removed technical friction from the onboarding process, and ensured elite satisfaction metrics.
+  Delivered exceptional customer service support to 10+ consumers daily during open enrollment by addressing benefit-related questions, providing accurate information, and ensuring a positive customer experience.
+
+  Guided 100+ consumers through benefits enrollment processes, explaining plan options, eligibility requirements, and enrollment procedures while improving customer understanding and satisfaction. 
+
+Managed a volume of customer interactions while maintaining accuracy in benefits information provided, demonstrating strong attention to detail, professionalism, and commitment to quality service. 
+* **Results:** Drastically improved consumer plan comprehension, and ensured elite satisfaction metrics.
 
 ---
 
 ### 📊 Case Study 2: Database Architecture, Optimization, and Outreach
 * **Context:** Coordinated high-volume database administration and membership outreach programs across structural roles at the **National League for Nursing** and the **Association for the United States Army**.
-* **The Challenge:** Processing massive influxes of operational survey data, eliminating administrative backlog, and ensuring members could cleanly access vital educational materials.
+* **The Challenge:** 
+Distributed marketing materials and program resources to support outreach initiatives, increasing member access to important educational and organizational information.
+
+Provided administrative and member support by coordinating documentation, maintaining electronic records, and assisting with data-related projects to improve organizational efficiency.
 * **Actions Taken:**
-  * Systematically managed and audited contact information databases, successfully processing **60 to 100 records per day**.
-  * Organized, maintained, and formatted crucial survey metrics tracking multi-year corporate initiatives (such as the 2020–2022 NCLEX HBCU initiatives).
-  * Delivered professional resource navigation and targeted informational materials to over **50+ organization members** daily to maximize outreach.
-* **Outcome:** Maintained pristine data integrity across thousands of profile records, boosted department administrative efficiency, and significantly increased member engagement.
+**Association for the United States Army**.
+   *Promoted organizational programs, products, and services to 50+ members, providing clear instructions and accurate information to improve member awareness and engagement. 
+
+Distributed marketing materials and program resources to support outreach initiatives, increasing member access to important educational and organizational information. 
+
+Assisted members with program inquiries and resource navigation, delivering professional customer service while maintaining 100% accuracy in information provided and ensuring a positive member experience. 
+Managed and updated member contact information databases for annual surveys, maintaining 60–100 records per day, four days per week, while ensuring data accuracy and completeness. 
+ **National League for Nursing** 
+Processed and organized survey data for 2020–2022 NCLEX HBCU initiatives, supporting reporting efforts through accurate data entry, record maintenance, and information management. 
+
+Provided administrative and member support by coordinating documentation, maintaining electronic records, and assisting with data-related projects to improve organizational efficiency. 
+* **Outcome:** Maintained pristine data integrity across thousands of profile records.
 
 ---
 
 ### 🏢 Case Study 3: Large-Scale Operational Logistics & Guest Relations
-* **Context:** Managed daily frontline facility operations, safety logistics, and community experiences over a 14-year tenure at **George Washington University**.
+* **Context:** Delivered exceptional customer service to 50–69 customers daily by assisting with equipment distribution, towel services, and responding to customer needs in a fast-paced recreation environment. 
+
+Promoted university programs, marketing initiatives, and special events to increase customer awareness and encourage participation among students, faculty, and community members. 
+
+Managed daily sports facility reservations and scheduling activities, maintaining accurate records while ensuring efficient operations and a positive customer experience over a 14-year tenure at **George Washington University**.
 * **The Challenge:** Balancing real-time, fast-paced face-to-face customer service with backend administrative planning, facility scheduling, and equipment management.
 * **Actions Taken:**
   * Delivered top-tier customer care and resolved active requests for a high-volume cohort of **50 to 69 patrons daily**.
