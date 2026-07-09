@@ -31,15 +31,16 @@ I am a dedicated and detail-oriented Customer Service Specialist with over two d
 
 ---
 
-## 📁 Featured Impact Case Studies
-I frame my 20+ years of experience through real-world problem-solving milestones. Click the link below to view my complete project portfolio:
+## ## 📁 Featured Impact Case Studies
+
+I transform 20+ years of frontline support, member services, and administrative experience into measurable organizational success. Discover how I optimize database workflows and resolve complex customer escalations:
 
 👉 **[View My Detailed Impact Projects & Case Studies](projects.md)**
 
-*   **Case Study 1:** High-Volume Support & Consumer Benefits Guidance (*Winston Benefits*)
-*   **Case Study 2:** Database Architecture, Optimization, and Outreach (*National League for Nursing / AUSA*)
-*   **Case Study 3:** Large-Scale Operational Logistics & Guest Relations (*George Washington University*)
-
+* Highlights include:
+  * **Case Study 1:** High-Volume Support & Consumer Benefits Guidance (*Winston Benefits*)
+  * **Case Study 2:** Database Architecture, Optimization, and Outreach (*National League for Nursing / AUSA*)
+  * **Case Study 3:** Large-Scale Operational Logistics & Guest Relations (*George Washington University*)
 ---
 
 ## 🎓 Education & Credentials
