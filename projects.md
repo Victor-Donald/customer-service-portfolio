@@ -3,7 +3,7 @@
 
 ---
 
-### 📋 Case Study 1: High-Volume Support & Consumer Benefits Guidance
+### 📋 Case Study 1: High-Volume Customer  Support & Employee Benefits Guidance
 * **Context:** Provided remote customer service support during the annual open enrollment period at **Winston Benefits**.
 * **The Challenge:** Managing a continuous influx of complex consumer inquiries regarding medical, dental, and vision benefit plans under tight deadlines while maintaining flawless data accuracy and user satisfaction.
 * **Actions Taken:**
