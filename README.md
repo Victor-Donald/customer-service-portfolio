@@ -1,3 +1,17 @@
+> [!NOTE]
+> This is a note alert. Useful for highlighting key takeaways.
+
+> [!TIP]
+> This is a tip alert. Great for advice or helpful hints.
+
+> [!IMPORTANT]
+> This is an important alert. Crucial information for the reader.
+
+> [!WARNING]
+> This is a warning alert. Requires user attention.
+
+> [!CAUTION]
+> This is a caution alert. Advises against negative outcomes.
 # Victor Donald
 **Customer Service & Administrative Professional**  
 📍 Washington, DC 20011 | 📞 202-760-7904 | ✉️ Victor.Donald1@outlook.com  
@@ -23,7 +37,20 @@ Known for an empathetic, active-listening approach, I excel at navigating high-v
 
 * Technical & Operational Documentation
 
+> [!NOTE]
+> This is a note alert. Useful for highlighting key takeaways.
 
+> [!TIP]
+> This is a tip alert. Great for advice or helpful hints.
+
+> [!IMPORTANT]
+> This is an important alert. Crucial information for the reader.
+
+> [!WARNING]
+> This is a warning alert. Requires user attention.
+
+> [!CAUTION]
+> This is a caution alert. Advises against negative outcomes.
 ---
 
 ## ## 📁 Featured Impact Case Studies
