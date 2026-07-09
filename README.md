@@ -7,7 +7,7 @@
 ---
 
 ## 👥 About Me
-Dedicated and detail-oriented Customer Service & Administrative Specialist with over two decades of experience delivering premium frontline support, member services, and high-level operational coordination.
+Professional Customer Service & Administrative Portfolio showcasing 20+ years of frontline excellence, database optimization, and operational suppor
 
 Known for an empathetic, active-listening approach, I excel at navigating high-volume user interactions, optimizing database workflows, and resolving complex inquiries with absolute accuracy. My focus is always on driving positive organizational impact and maximizing the user experience."
 ---
