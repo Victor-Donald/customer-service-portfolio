@@ -35,8 +35,8 @@ Processed and organized survey data for 2020–2022 NCLEX HBCU initiatives, supp
 
 Provided administrative and member support by coordinating documentation, maintaining electronic records, and assisting with data-related projects to improve organizational efficiency. 
 * **Outcome:** Maintained pristine data integrity across thousands of profile records.
-
----
+# 🚀 Live Customer Service Portfolio
+👉 [Click Here to View My Interactive Web Portfolio](https://Victor-Donald.github.io/customer-service-portfolio/portfolio.html)---
 
 ### 🏢 Case Study 3: Large-Scale Operational Logistics & Guest Relations
 * **Context:** Delivered exceptional customer service to 50–69 customers daily by assisting with equipment distribution, towel services, and responding to customer needs in a fast-paced recreation environment. 
